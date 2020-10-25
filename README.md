@@ -14,7 +14,7 @@ Google Says that Clients Secrets cannot be exposed to public so you have to crea
 * Insert Downloaded JSON to Youtube-Uploader-Python into Youtube-Uploader-Python Directory.
 * Run python upload_video.py --file Name Of the file --noauth_local_webserver on ubuntu/mac os x's terminal or windows's command prompt.
 
-*After autorization, the upload_video.py-oauth2.json is automatically created!
+After autorization, the upload_video.py-oauth2.json is automatically created!
 # Usage
 ```
 upload_video.py [--auth_host_name AUTH_HOST_NAME] [--noauth_local_webserver]
